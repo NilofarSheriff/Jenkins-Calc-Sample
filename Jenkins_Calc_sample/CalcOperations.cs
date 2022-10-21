@@ -33,7 +33,7 @@ namespace Jenkins_Calc_sample
 
         public int Sqrt()
         {
-            //return (int)Math.Sqrt(Firstnumber);
+            return (int)Math.Sqrt(Firstnumber);
         }
     }
 }
