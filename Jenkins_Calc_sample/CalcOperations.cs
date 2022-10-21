@@ -25,5 +25,10 @@ namespace Jenkins_Calc_sample
         {
             return Firstnumber * Secondnumber;
         }
+
+        public int Divison()
+        {
+            return Firstnumber / Secondnumber;
+        }
     }
 }
