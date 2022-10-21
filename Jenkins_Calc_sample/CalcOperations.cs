@@ -30,5 +30,10 @@ namespace Jenkins_Calc_sample
         {
             return Firstnumber / Secondnumber;
         }
+
+        public int Sqrt()
+        {
+            return (int)Math.Sqrt(Firstnumber);
+        }
     }
 }
